@@ -4,8 +4,7 @@ vibecoded sprx menu for fortnite
 ## Showcase
 
 
-[![Watch the video](https://raw.githubusercontent.com/So9aa/fn-chests-ps4/refs/heads/main/showcase/video.mp4
-)]
+[![Watch the video](https://github.com/So9aa/fn-chests-ps4/raw/main/showcase/thumbnail.png)](https://github.com/So9aa/fn-chests-ps4/raw/main/showcase/video.mp4)
 
 
 
