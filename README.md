@@ -1,6 +1,8 @@
-# fn-chests-ps4
+# sprx menu for ps4
 
 you have to update it cuz it might not work for you
+
+its cool base if u wanna work on menu
 
 ## Showcase
 
