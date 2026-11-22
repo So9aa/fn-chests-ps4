@@ -3,8 +3,8 @@ vibecoded sprx menu for fortnite
 
 ## Showcase
 
-<video src="./showcase/video.mp4" controls="controls" muted="muted" style="max-width: 100%;">
-  <a href="./showcase/video.mp4">Watch the showcase video</a>
+
+<video src="https://raw.githubusercontent.com/So9aa/fn-chests-ps4/refs/heads/main/showcase/video.mp4" controls muted width="100%">
 </video>
 
 
