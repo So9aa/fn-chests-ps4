@@ -1,5 +1,6 @@
 # fn-chests-ps4
-vibecoded sprx menu for fortnite
+
+you have to update it cuz it might not work for you
 
 ## Showcase
 
