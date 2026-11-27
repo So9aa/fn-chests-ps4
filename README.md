@@ -11,3 +11,5 @@ its cool base if u wanna work on menu
 <img src="https://github.com/So9aa/fn-chests-ps4/raw/main/showcase/image.png" width="720">
 
 my discord @funcult hmu if u need any help <3
+
+https://github.com/TetzkatLipHoka/ps4-unreal-dumper
